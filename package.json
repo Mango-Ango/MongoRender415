@@ -1,10 +1,10 @@
 {
-  "name": "ckMongoTest",
+  "name": "mytestapp",
   "version": "1.0.0",
   "description": "CKs Express Mongo Test on Render",
   "main": "testmongo.js",
-  "repository": "https://github.com/ckorpio/MongoRender",
-  "author": "CK",
+  "repository": "https://github.com/Mango-Ango/MongoRender415",
+  "author": "angusmckee",
   "license": "MIT",
   "private": false,
   "scripts": {
