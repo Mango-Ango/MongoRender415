@@ -4,7 +4,7 @@
   "description": "CKs Express Mongo Test on Render",
   "main": "testmongo.js",
   "repository": "https://github.com/Mango-Ango/MongoRender415",
-  "author": "angusmckee",
+  "author": "Angus Mckee",
   "license": "MIT",
   "private": false,
   "scripts": {
